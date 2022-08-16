@@ -1,0 +1,51 @@
+.border-btm {
+  border-bottom: 1.5px solid rgba(183, 183, 183, 0.3)
+}
+
+.it {
+  font-style: italic;
+}
+
+.light {
+  font-weight: 200;
+  color: darkgrey;
+}
+
+.forms {
+  padding: 15px;
+  font-family: lato;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  background-color: #c0ffee;
+  border: 8px 24px;
+  border-radius: 2px;
+  margin-left: 2px;
+}
+
+h1, h2 {
+  font-family: lato;
+  font-weight: 800;
+}
+
+li {
+  padding: 2px;
+  margin: 10px;
+}
+
+p {
+  font-family: lato;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  font-family: lato;
+}
